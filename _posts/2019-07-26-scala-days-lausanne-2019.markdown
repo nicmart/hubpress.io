@@ -4,13 +4,13 @@ title:  "Scala Days 2019 and Scala 3"
 categories: scala conference
 ---
 
-At SpringerNature we love Scala and we couldn't not have our representative at Scala Days 2019!
+At [SpringerNature](http://springernature.com) we love Scala and we couldn't not have our representative at Scala Days 2019!
 
-The Conference was held at EPFL in Lausanne, 11-13th June 2019.
+The Conference was held at [EPFL](https://www.epfl.ch/en/) in Lausanne, 11-13th June 2019.
 
 Usually the European date of the Conference is held in Berlin. This year instead the conference went back to Lausanne to celebrate its 10th anniversary.
 
-The [EPFL](https://www.epfl.ch/en/) is a place of high historical significance for Scala. It is where Scala was born, where the first edition of Scala Days was held, and where Martin Odersky and his group of collaborators still work on the Scala compiler.
+The EPFL is a place of high historical significance for Scala. It is where Scala was born, where the first edition of Scala Days was held, and where Martin Odersky and his group of collaborators still work on the Scala compiler.
 
 Our SpringerNature expedition consisted in John, Murali, Fabio and me.
 
