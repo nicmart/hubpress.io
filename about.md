@@ -40,7 +40,7 @@ permalink: /
 				<li><a class="email" href="mailto:nicmartnic at gmail dot com">Email</a></li>
 				<li><a href="http://twitter.com/nicmartnic">Twitter</a></li>
 				<li><a href="https://github.com/nicmart">GitHub</a></li>
-				<li><a href="/blog/"><b>Blog</b></a></li>
+				<li><a href="/blog"><b>Blog</b></a></li>
 				<li><a href="http://stackoverflow.com/users/162087/nicolo-martini">StackOverflow</a></li>
 				<li><a href="http://it.linkedin.com/in/nicmartnic">LinkedIN</a></li>
 				<li><a href="https://github.com/nicmart/hi/raw/gh-pages/cv.pdf">CV</a></li>
