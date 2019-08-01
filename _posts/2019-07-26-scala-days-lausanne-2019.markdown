@@ -2,6 +2,7 @@
 layout: post
 title:  "Scala Days 2019 and Scala 3"
 categories: scala conference
+redirect_from: /scala/conference/2019/07/26/scala-days-lausanne-2019.html
 ---
 
 At [SpringerNature](http://springernature.com) we love Scala and we couldn't not have our representative at Scala Days 2019!
